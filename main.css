@@ -114,3 +114,9 @@ a {
     border-radius: 10px;
     border-style: dotted;
 }
+.choose a {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
